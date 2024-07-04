@@ -1,14 +1,7 @@
 <h1 align="center"><b>Olá, sou Kelson Wendrel e esse é o meu portifolio</b><img src="" width="35"></h1>
 <!--  -->Esse projeto é um trabalho realizado na disciplina de programação web, na UFOPA, e serve para a gente colocar em pratica os nossos conhecimentos sobre html, css e (opcional) javascript.
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Programação web"></a>
-</p>
-
-
 <br>
-
-
 
 	
 ## *Sobre o projeto*

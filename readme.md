@@ -6,6 +6,12 @@
 </p>
 
 <br>
+
+## Visite a página
+
+Esse link te leva para a pagina no github pages
+
+[Visite o Portifolio](https://kelwsagashi.github.io/Portifolio_SImples/)
 	
 ## *Sobre o projeto*
 
